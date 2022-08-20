@@ -1,0 +1,17 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# vscode:
+.devcontainer/*
+.vscode/*
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*checkpoint.ipynb
+dist
+build
